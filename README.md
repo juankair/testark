@@ -4,7 +4,7 @@ Bahasa :
 
 Soal 1-5 : Javascript
 
-Soal 6c : PHP (Laravel 6)
+Soal 6c : PHP (Laravel 6 | DB MYSQL)
 
 
 
