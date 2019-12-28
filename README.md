@@ -19,7 +19,7 @@ php artisan migrate
 ```
 
 
-
+<p align="center"><img src="http://dev.lambda.web.id/upload/images/demo_arkademy.png"></p>
 
 
 
