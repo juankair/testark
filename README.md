@@ -21,6 +21,12 @@ php artisan migrate
 
 <p align="center"><img src="http://dev.lambda.web.id/upload/images/demo_arkademy.png"></p>
 
+<p align="center"><img src="http://dev.lambda.web.id/upload/images/add_arkademy.png"></p>
+
+<p align="center"><img src="http://dev.lambda.web.id/upload/images/edit_arkademy.png"></p>
+
+<p align="center"><img src="http://dev.lambda.web.id/upload/images/delete_arkademy.png"></p>
+
 
 
 
