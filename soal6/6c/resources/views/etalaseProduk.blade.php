@@ -25,7 +25,7 @@
                                 <td>{{ $value->cashierName }}</td>
                                 <td>{{ $value->name }}</td>
                                 <td>{{ $value->categoriesName }}</td>
-                                <td>{{ $value->price }}</td>
+                                <td>Rp. {{ number_format($value->price) }}</td>
                                 <td><b class="btn-edit" catID="{{$value->categoryID}}" casID="{{ $value->cashierID }}" productID="{{ $value->id }}" style="color:#ACE087;cursor: pointer;">Edit</b> | <b productID="{{ $value->id }}" class="btn-delete" style="color:#FF8FB2;cursor: pointer;">Delete</b></td>
                             </tr>
                           @endforeach
